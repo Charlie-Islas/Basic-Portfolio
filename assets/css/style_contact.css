@@ -58,6 +58,15 @@ a{
 
 }
 
+a:hover{
+
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #4aaaa5;
+    text-decoration: underline;
+}
+
 #portfolio,
 #about{
 
@@ -171,6 +180,21 @@ p{
     text-align: center;
     margin-left: 57px;
     background-color: #4aaaa5;
+}
+
+#submit:hover{
+
+   
+    width: 8%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: white;
+    text-align: center;
+    margin-left: 57px;
+    background-color: #777777;
+    text-decoration: underline;
 }
 
 footer{
